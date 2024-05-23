@@ -166,16 +166,18 @@ Kesimpulan:
 Dari hasil evaluasi, dapat disimpulkan bahwa model _Random Forest_ adalah pilihan terbaik untuk memprediksi harga penutupan saham Alibaba. Meskipun _KNN_ juga memberikan performa yang baik, _Random Forest_ memiliki _MSE_ yang lebih rendah secara konsisten, menunjukkan kemampuan yang lebih baik dalam menangkap pola kompleks dalam data. Sementara itu, _Boosting_ tidak memberikan performa yang sesuai dengan harapan, mungkin karena masalah _overfitting_ atau kekurangan pemodelan pada data yang kompleks ini.
 
 Grafik Evaluasi:
-Berikut adalah grafik yang membandingkan _MSE_ untuk setiap model:
+Berikut adalah grafik yang membandingkan _MSE_ untuk setiap model yang dapat dilihat pada gambar 3:
 ![Gambar 3.Evaluasi model](image-2.png)
+
 Prediksi Contoh:
-Untuk memberikan gambaran lebih lanjut, berikut adalah contoh prediksi harga penutupan saham Alibaba untuk satu sampel dari data pengujian:
+Untuk memberikan gambaran lebih lanjut, berikut adalah contoh prediksi harga penutupan saham Alibaba untuk satu sampel dari data pengujian yang dapat dilihat pada gambar 4:
 ![Gambar 4. Prediksi](image-3.png)
 
 - Harga Penutupan Sebenarnya: 176.477676
 - Prediksi _KNN_: 176.2
 - Prediksi _Random Forest_: 175.1
 - Prediksi _Boosting_: 178.1
+
   Dalam contoh ini, bisa melihat bahwa prediksi dari _KNN_ dan _Random Forest_ cukup dekat dengan harga penutupan sebenarnya, sementara prediksi dari Boosting memiliki deviasi yang lebih besar.
   Dengan demikian, proyek ini berhasil memberikan model yang dapat digunakan untuk memprediksi harga penutupan saham Alibaba dengan tingkat akurasi yang memadai, terutama dengan menggunakan model _Random Forest_.
   **---Ini adalah bagian akhir laporan---**
