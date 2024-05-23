@@ -14,8 +14,8 @@ Mengapa dan bagaimana masalah ini harus diselesaikan?
 2. Strategi perdagangan: Trader dapat menggunakan data historis untuk mengembangkan strategi perdagangan yang lebih efektif, seperti menentukan titik masuk dan keluar yang optimal berdasarkan pola harga masa lalu.
 3. Peningkatan model prediksi: Menggunakan teknik analisis prediktif dan machine learning, kita bisa membangun model yang lebih akurat dalam memprediksi harga saham.
 
-Sumber referensi: (Analisis Data Time Series Menggunakan Model Kernel: Pemodelan
-Data Harga Saham MDKA)[https://jurnal.uns.ac.id/ijas/article/view/79385/43851], (Implementasi Algoritma Regresi pada Machine Learning untuk Prediksi Indeks Harga Saham Gabungan)[https://ejournal.poltekharber.ac.id/index.php/informatika/article/view/6105/2848]
+Sumber referensi: [Analisis Data Time Series Menggunakan Model Kernel: Pemodelan
+Data Harga Saham MDKA](https://jurnal.uns.ac.id/ijas/article/view/79385/43851), [Implementasi Algoritma Regresi pada Machine Learning untuk Prediksi Indeks Harga Saham Gabungan](https://ejournal.poltekharber.ac.id/index.php/informatika/article/view/6105/2848)
 
 ## Business Understanding
 
@@ -47,7 +47,7 @@ Bagian laporan ini mencakup:
 ## Data Understanding
 
 Dataset yang digunakan dalam proyek ini adalah Alibaba (BABA) Stock Dataset yang tersedia di Kaggle. Dataset ini berisi data harga saham historis Alibaba Group Holding (BABA) dari 1 Januari 2020 hingga 1 Mei 2024. Data ini mencakup harga pembukaan, tertinggi, terendah, dan penutupan harian, serta harga penutupan yang disesuaikan dan volume perdagangan.
-Sumber data: (Alibaba (BABA) Stock Dataset)[https://www.kaggle.com/datasets/innocentmfa/alibaba-baba-stock-dataset?select=BABA.csv]
+Sumber data: [Alibaba (BABA) Stock Dataset](https://www.kaggle.com/datasets/innocentmfa/alibaba-baba-stock-dataset?select=BABA.csv)
 
 ### Variabel-variabel pada ulasan aplikasi DANA dataset adalah sebagai berikut:
 
