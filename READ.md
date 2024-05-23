@@ -2,7 +2,7 @@
 
 ## Domain Proyek
 
-Pasar saham adalah salah satu indikator utama kesehatan ekonomi, di mana harga saham mencerminkan ekspektasi investor terhadap kinerja masa depan suatu perusahaan. Alibaba Group Holding Limited (BABA) adalah salah satu perusahaan teknologi terbesar di dunia dengan kapitalisasi pasar yang besar dan pengaruh signifikan di pasar global. Menganalisis performa saham Alibaba dapat memberikan wawasan penting tentang tren pasar, sentimen investor, dan potensi pergerakan harga di masa depan.
+Pasar saham adalah salah satu indikator utama kondisi ekonomi, di mana harga saham mencerminkan ekspektasi investor terhadap kinerja masa depan suatu perusahaan. Alibaba Group Holding Limited (BABA) adalah salah satu perusahaan teknologi terbesar di dunia dengan kapitalisasi pasar yang besar dan pengaruh signifikan di pasar global. Menganalisis performa saham Alibaba dapat memberikan wawasan penting tentang tren pasar, sentimen investor, dan potensi pergerakan harga di masa depan.
 
 Pada proyek ini akan melakukan predictive analytics terhadap Alibaba stock. Data yang digunakan adalah 1089 ribu.
 
